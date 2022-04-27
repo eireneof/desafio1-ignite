@@ -20,7 +20,7 @@ Esse projeto foi criado através do template [ignite-template-reactjs-conceitos-
 </div>
 <br><br>
 
-Em [components/TaskList.tsx]() encontramos as funções principais da aplicação que são as seguintes:
+Em [components/TaskList.tsx](https://github.com/eireneof/desafio1-ignite/blob/main/src/components/TaskList.tsx) encontramos as funções principais da aplicação que são as seguintes:
 * **Adicionar uma nova tarefa:** 
 ``` typescript
 function handleCreateNewTask() {
