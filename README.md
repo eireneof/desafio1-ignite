@@ -5,7 +5,9 @@
 Criar um To do List para consolidar o que foi estudado com React que deverá contar com as seguintes funcionalidades:
 
 :heavy_check_mark: Adicionar uma nova tarefa
+
 :heavy_check_mark: Remover uma tarefa
+
 :heavy_check_mark: Marcar e desmarcar uma tarefa como concluída
 
 Esse projeto foi criado através do template [ignite-template-reactjs-conceitos-do-react
